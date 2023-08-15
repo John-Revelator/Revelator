@@ -2,8 +2,6 @@
 # Weights on Revelator 2.1
 
 unet_up_blocks.1.resnets.0.time_emb_proj.weight:
-  bondageV11_v11: 0.13059565424919128
-  eroticVision_v4: 0.1268714815378189
   vodkaByFollowfoxAI_v40: 0.12461966276168823
   movieDiffusionV12_v12safetensors: 0.10700148344039917
   analog-diffusion-1.0: 0.1023169755935669
